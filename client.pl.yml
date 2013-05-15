@@ -13,40 +13,40 @@ pl:
       google+: 'podziel się tym linkiem poprzez Google+'
       email: 'wyślij ten link prez email'
 
-    edit: 'edit the title and category of this topic'
-    not_implemented: "That feature hasn't been implemented yet, sorry!"
-    no_value: "No"
-    yes_value: "Yes"
-    of_value: "of"
-    generic_error: "Sorry, an error has occurred."
-    log_in: "Log In"
-    age: "Age"
-    last_post: "Last Post"
+    edit: 'edytuj tytul i kategorie dla tego tematu'
+    not_implemented: "Przepraszamy, ta funkcja nie zostala jeszcze zaimplementowana!"
+    no_value: "Nie"
+    yes_value: "Tak"
+    of_value: "z"
+    generic_error: "Przepraszamy, wystapil blad!"
+    log_in: "Zaloguj"
+    age: "Wiek"
+    last_post: "Ostatni Post"
     admin_title: "Admin"
-    flags_title: "Flags"
-    show_more: "show more"
+    flags_title: "Flagi"
+    show_more: "pokaz wiecej"
     links: Links
     faq: "FAQ"
-    you: "You"
-    or: "or"
-    now: "just now"
-    read_more: 'read more'
+    you: "Ty"
+    or: "lub"
+    now: "w tym momencie"
+    read_more: 'czytaj calosc'
 
     in_n_seconds:
-      one: "in 1 second"
-      other: "in {{count}} seconds"
+      one: "w ciagu 1 sekundy"
+      other: "w {{count}} sekund"
     in_n_minutes:
-      one: "in 1 minute"
-      other: "in {{count}} minutes"
+      one: "w ciagu 1 minuty"
+      other: "w {{count}} minut"
     in_n_hours:
-      one: "in 1 hour"
-      other: "in {{count}} hours"
+      one: "w ciagu 1 godziny"
+      other: "w {{count}} godzin"
     in_n_days:
-      one: "in 1 day"
-      other: "in {{count}} days"
+      one: "w ciagu 1 dnia"
+      other: "w {{count}} dni"
 
     suggested_topics:
-      title: "Suggested Topics"
+      title: "Sugerowane tematy"
 
     bookmarks:
       not_logged_in: "Sorry, you must be logged in to bookmark posts."
