@@ -1,2 +1,2 @@
-translate-for-discourse
+polish translate for discourse
 =======================
