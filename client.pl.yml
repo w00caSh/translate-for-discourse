@@ -49,19 +49,19 @@ pl:
       title: "Sugerowane tematy"
 
     bookmarks:
-      not_logged_in: "Sorry, you must be logged in to bookmark posts."
-      created: "You've bookmarked this post."
-      not_bookmarked: "You've read this post; click to bookmark it."
-      last_read: "This is the last post you've read."
+      not_logged_in: "Przepraszamy, musisz być zalogowany w zakładce postów."
+      created: "Dodałeś ten post do zakładek."
+      not_bookmarked: "Przeczytałeś ten post; Kliknij żeby dodać do zakładek."
+      last_read: "To ostatni post, który przeczytałeś."
 
-    new_topics_inserted: "{{count}} new topics."
-    show_new_topics: "Click to show."
-    preview: "preview"
-    cancel: "cancel"
+    new_topics_inserted: "{{count}} nowych tematów."
+    show_new_topics: "Kliknij żeby zobaczyć."
+    preview: "podgląd"
+    cancel: "anuluj"
 
-    save: "Save Changes"
-    saving: "Saving..."
-    saved: "Saved!"
+    save: "Zapisz zmiany"
+    saving: "Zapisywanie..."
+    saved: "Zapisano!"
 
     choose_topic:
       none_found: "No topics found."
